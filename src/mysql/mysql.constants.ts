@@ -1,0 +1,1 @@
+export const MYSQL_SERVICE = 'MYSQL_SERVICE';
